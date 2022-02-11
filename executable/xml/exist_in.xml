@@ -1,0 +1,11 @@
+<exist_in_rel>
+   <exist_in fk_filename="christmas_cat.jpg" fk_username="achatzimichail" fk_title="Favorite Animal">
+      <votes>59</votes>
+   </exist_in>
+   <exist_in fk_filename="bird.jpg" fk_username="mliagka" fk_title="Favorite Animal">
+      <votes>24</votes>
+   </exist_in>
+   <exist_in fk_filename="laptop.jpg" fk_username="mliagka" fk_title="Technology">
+      <votes>35</votes>
+   </exist_in>
+</exist_in_rel>

@@ -1,0 +1,11 @@
+<photos>
+   <photo filename="christmas_cat.jpg" fk_username="achatzimichail">
+      <views>100</views>
+   </photo>
+   <photo filename="bird.jpg" fk_username="mliagka">
+      <views>241</views>
+   </photo>
+   <photo filename="laptop.jpg" fk_username="mliagka">
+      <views>160</views>
+   </photo>
+</photos>

@@ -1,0 +1,12 @@
+<players>
+   <player username="achatzimichail">
+      <password>qwerty</password>
+      <points>150000</points>
+      <level>7</level>
+   </player>
+   <player username="mliagka">
+      <password>maria</password>
+      <points>32000</points>
+      <level>5</level>
+   </player>
+</players>

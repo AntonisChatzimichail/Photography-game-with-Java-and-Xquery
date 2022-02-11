@@ -1,1 +1,26 @@
-
+<challenges>
+   <challenge title="Favorite Animal">
+      <description>Share photos of your Favorite Animal.</description>
+      <end_date>2022-02-16</end_date>
+   </challenge>
+   <challenge title="Technology">
+      <description>Share photos of technology products.</description>
+      <end_date>2022-02-12</end_date>
+   </challenge>
+   <challenge title="Blue, Blue Skies">
+      <description>Submit photos of the Blue Hour.</description>
+      <end_date>2022-02-13</end_date>
+   </challenge>
+   <challenge title="Two Colors Only">
+      <description>Can you take a beautiful photo using only two colors?</description>
+      <end_date>2022-02-14</end_date>
+   </challenge>
+   <challenge title="Your Strongest Subject">
+      <description>Share some shots of your strongest subject.</description>
+      <end_date>2022-02-15</end_date>
+   </challenge>
+   <challenge title="Iconic Landmarks">
+      <description>Show your best landmark photographs.</description>
+      <end_date>2022-02-17</end_date>
+   </challenge>
+</challenges>
